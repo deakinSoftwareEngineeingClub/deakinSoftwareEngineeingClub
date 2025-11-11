@@ -10,11 +10,11 @@ We turn curiosity into code, and teamwork into real-world impact.
 
 ## 🎯 Objectives
 
-✅ Provide members with **hands-on experience** through open-source and team projects.
-✅ Build a **supportive hub** for software learning, collaboration, and mentorship.
-✅ Run **development sessions**, workshops, and speaker events that sharpen technical and soft skills.
-✅ Foster **industry networking** and prepare members for internships and careers.
-✅ Ensure every committed member graduates with a **showcase-ready portfolio project**.
+- ✅ Provide members with **hands-on experience** through open-source and team projects.
+- ✅ Build a **supportive hub** for software learning, collaboration, and mentorship.
+- ✅ Run **development sessions**, workshops, and speaker events that sharpen technical and soft skills.
+- ✅ Foster **industry networking** and prepare members for internships and careers.
+- ✅ Ensure every committed member graduates with a **showcase-ready portfolio project**.
 
 ## 🧑‍💼 Club Leadership 2025
 
