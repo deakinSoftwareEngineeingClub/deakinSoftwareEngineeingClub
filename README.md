@@ -1,53 +1,73 @@
-# Deakin Software Engineering Club
+# 💻 Deakin Software Engineering Club (DSEC)
 
-Welcome to the Deakin Software Engineering Club! We're passionate about all things software engineering and fostering a vibrant community of tech enthusiasts.
+Welcome to the **official repository** of the Deakin Software Engineering Club — the heart of software innovation at Deakin University! 🎓💡
+We’re a student-led community of builders, designers, and innovators passionate about creating real projects, learning practical skills, and launching ideas that matter. 🚀
 
-## Club Overview
+## 🌟 Mission
 
-### Mission
-Our mission is to create an inclusive environment where software engineering students can learn, collaborate, and innovate together.
+To **empower Deakin students** to build hackathon-level software projects, gain industry-ready experience, and collaborate within an inclusive, growth-oriented community.
+We turn curiosity into code, and teamwork into real-world impact.
 
-### Objectives
-- Promote knowledge sharing and skill development in software engineering.
-- Foster a strong community through networking and events.
-- Provide resources and support for students interested in software development.
+## 🎯 Objectives
 
-## Club Leadership
+✅ Provide members with **hands-on experience** through open-source and team projects.
+✅ Build a **supportive hub** for software learning, collaboration, and mentorship.
+✅ Run **development sessions**, workshops, and speaker events that sharpen technical and soft skills.
+✅ Foster **industry networking** and prepare members for internships and careers.
+✅ Ensure every committed member graduates with a **showcase-ready portfolio project**.
 
-- President: Harley
-- Vice-President and Head of Design: Adityan
-- Head of Advertisement: Prashanth
-- Treasure: Akshit
-- Secretary: Aamya
-- Head of Events: Kesh
+## 🧑‍💼 Club Leadership 2025
 
-## What We Offer
+* **President** — Samridh Limbu
+* **Vice President** — Tarun
+* **Head of Design & Marketing** — Aarav
+* **Head of External Affairs** — Ranveer
+* **Development Team Lead** — Shalok
+* **Committee Members** — Our passionate volunteers powering DSEC’s projects and events ❤️
 
-### Events
-We organize a variety of events throughout the year, including:
-- Workshops and coding sessions
-- Guest lectures and tech talks
-- Hackathons and coding challenges
+*(For executive updates, check our official socials and Discord!)*
 
-### Membership Benefits
-- Access to exclusive resources and learning materials
-- Networking opportunities with industry professionals
-- Involvement in shaping the club's activities and direction
+## 🧠 What We Offer
 
-## How to Get Involved
+### 🛠 Development Sessions
 
-- Join our [Discord server](#) to connect with fellow members and stay updated on upcoming events.
-- Attend our regular meetings and events announced through our communication channels.
-- Contact any of the club leaders for more information on membership and participation.
+Weekly collaborative sprints where members build real software—learning Git, teamwork, and engineering practices.
 
-## Contact Us
+### 🎓 Workshops & Learning Events
 
-For inquiries or more information, reach out to:
+Interactive sessions covering software tools, AI, web development, and more.
 
-- Club email: deakinsec@gmail.com
+### 💬 Speaker Series
 
-- President: 
-- Vice-President and Head of Design: [Adityan](https://www.linkedin.com/in/adityan-balamuralidharan-6b2a35183/)
-- Head of Advertisement: 
+Talks from industry professionals and Deakin alumni sharing insights on tech careers and projects.
 
-We look forward to having you join our community of software engineering enthusiasts at Deakin!
+### ⚡ Hackathons & Challenges
+
+Compete, innovate, and create solutions with your peers in DSEC’s major events.
+
+## 🌐 Get Involved
+
+* 💬 Join our [Discord Server](https://discord.gg/p3nnDFW57k) — connect, collaborate, and stay updated.
+* 🌱 Check out our [Linktree](https://linktr.ee/DeakinSEC) for all resources and links.
+* ✉️ Contact us at **[deakinsec@gmail.com](mailto:deakinsec@gmail.com)** for queries or partnerships.
+
+## 🧩 Member Benefits
+
+🎯 Access to exclusive project resources
+🤝 Networking with peers and industry mentors
+🚀 Opportunities to contribute to real open-source projects
+🏆 Recognition through certificates, showcases, and leadership roles
+
+## 💻 Contribute
+
+We’re open-source! 🌍
+Fork this repo, open a PR, or check the **Issues** tab to start contributing.
+Beginners are always welcome—this is where you learn by building.
+
+## 📜 Motto
+
+**“Code. Collaborate. Create.”**
+Join DSEC and turn your passion for software into something that ships! 💪💻✨
+
+
+Would you like me to also create a **README badge section** (e.g., GitHub shields for languages, website, license, etc.) and a **contributor section** for your current committee? That would make it look even more professional for GitHub.
